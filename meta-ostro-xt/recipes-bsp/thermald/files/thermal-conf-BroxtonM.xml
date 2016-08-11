@@ -61,12 +61,12 @@
                                 <TripPoints>
                                                         <TripPoint>
                                                                 <SensorType>cpu</SensorType>
-                                                                <Temperature>*</Temperature>
+                                                                <Temperature>87000</Temperature>
                                                                 <type>passive</type>
                                                         </TripPoint>
                                                         <TripPoint>
                                                                 <SensorType>cpu</SensorType>
-                                                                <Temperature>*</Temperature>
+                                                                <Temperature>89000</Temperature>
                                                                 <type>max</type>
                                                         </TripPoint>
                                 </TripPoints>
